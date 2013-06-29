@@ -46,7 +46,8 @@ header {
 header h1 {
   font-size: 30px;
   line-height: 1.5;
-  margin: 0 0 0 -40px;
+  margin: 0;
+/*  margin: 0 0 0 -40px;*/
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #b5e853;
@@ -213,13 +214,29 @@ hr {
   display: inline-block;
   width: 16px;
   height: 16px;
-  margin: 1px 8px 0 0;
+  margin: 0 ;
   float: left;
 }
 
 .btn-github .icon {
   opacity: 0.6;
   background: url("../images/blacktocat.png") 0 0 no-repeat;
+}
+.btn-instagram .icon {
+  opacity: 0.6;
+  background: url("../images/instagram.png") 0 0 no-repeat;
+}
+.btn-twitter .icon {
+  opacity: 0.6;
+  background: url("../images/twitter.png") 0 0 no-repeat;
+}
+.btn-flickr .icon {
+  opacity: 0.6;
+  background: url("../images/flickr.png") 0 0 no-repeat;
+}
+.btn-tumblr .icon {
+  opacity: 0.6;
+  background: url("../images/tumblr.png") 0 0 no-repeat;
 }
 
 /* Links
