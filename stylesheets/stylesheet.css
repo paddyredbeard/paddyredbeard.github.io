@@ -242,6 +242,10 @@ hr {
   opacity: 0.6;
   background: url("../images/tumblr.png") 0 0 no-repeat;
 }
+.btn-fitocracy .icon {
+  opacity: 0.6;
+  background: url("../images/fitocracy.png") 0 0 no-repeat;
+}
 
 /* Links
    a, a:hover, a:visited
