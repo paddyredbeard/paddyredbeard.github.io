@@ -2,11 +2,12 @@
 <html>
   <head>
     <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
 
     <title>paddythenerd | Paddy The Nerd</title>
   </head>
@@ -23,11 +24,11 @@
     <div class="container">
       <section id="main_content">
 
-            <h3><a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Synopsis</h3>
+            <h3><a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Synopsis</h3>
             <p>I like some things. Bicycles, black coffee, and shredded beef tacos for daily sustenance. Backyard weight-lifting &amp; crossfit, too. Photography, hiking, camping, and backroads adventure make the weekend fun. Dogs are cool. And chickens are pretty neat. Sci-fi/fantasy makes me happy. Web technologies are a blessing and a curse. I don&#39;t care what your phone can do.</p>
 
 
-            <h3><a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Contact</h3>
+            <h3><a id="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Contact</h3>
             <div class="h-card">
                 <div><em>web:</em> <a class="u-url" href="http://spirituscanis.com">spirituscanis.com</a></div>
                 <div><em>email:</em> <code class="u-email">paddythenerd AT gmail DOT com</code></div>
@@ -41,15 +42,19 @@
     <footer>
       <div class="container">
         <section id="downloads">
-          <a href="https://github.com/paddythenerd" class="btn btn-github"><span class="icon"></span></a>
-          <a href="https://instagram.com/paddythenerd" class="btn btn-instagram"><span class="icon"></span></a>
-          <a href="https://twitter.com/paddythenerd" class="btn btn-twitter"><span class="icon"></span></a>
-          <a href="https://secure.flickr.com/photos/spirituscanis" class="btn btn-flickr"><span class="icon"></span></a>
-          <a href="http://myawesomephone.tumblr.com/" class="btn btn-tumblr"><span class="icon"></span></a>
-          <a href="https://www.fitocracy.com/profile/paddythenerd/" class="btn btn-fitocracy"><span class="icon"></span></a>
+          <a rel="external" href="https://github.com/paddythenerd" class="btn btn-github"><span class="icon"></span></a>
+          <a rel="external" href="https://instagram.com/paddythenerd" class="btn btn-instagram"><span class="icon"></span></a>
+          <a rel="external" href="https://twitter.com/paddythenerd" class="btn btn-twitter"><span class="icon"></span></a>
+          <a rel="external" href="https://secure.flickr.com/photos/spirituscanis" class="btn btn-flickr"><span class="icon"></span></a>
+          <a rel="external" href="http://myawesomephone.tumblr.com/" class="btn btn-tumblr"><span class="icon"></span></a>
+          <a rel="external" href="https://www.fitocracy.com/profile/paddythenerd/" class="btn btn-fitocracy"><span class="icon"></span></a>
         </section>
       </div>
     </footer>
+
+    <script type="text/javascript">
+    $("a[rel='external']").on("click", function (event) {window.open(this.href); return false; });
+    </script>
     
   </body>
 </html>
