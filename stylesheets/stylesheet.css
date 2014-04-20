@@ -151,14 +151,14 @@ blockquote {
 }
 
 pre {
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(0, 0, 0, 0.3);
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
-  font-size: 14px;
+  font-size: 90%;
   color: #b5e853;
-  border-radius: 2px;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
+  border-radius: 1em;
+  -moz-border-radius: 1em;
+  -webkit-border-radius: 1em;
   text-wrap: normal;
   overflow: auto;
   overflow-y: hidden;
