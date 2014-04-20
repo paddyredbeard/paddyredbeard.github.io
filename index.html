@@ -78,16 +78,19 @@
 
             $("#42").text( function() {
                     var quips = [
-                    "Do you know where your towel is?",
-                    "DON'T PANIC",
-                    "C is for cookie, that's good enough for me.",
-                    "Give me reincarnation, or give me death.",
-                    "Klaatu Barada Nikto",
-                    "Laugh while you can, monkey boy!",
-                    "Sometimes nothing can be a real cool hand."
+                    { "quote": "Do you know where your towel is?", "source": "Douglas Adams" },
+                    { "quote": "DON'T PANIC", "source": "Douglas Adams" },
+                    { "quote": "C is for cookie, that's good enough for me.", "source": "Cookie Monster" },
+                    { "quote": "Give me reincarnation, or give me death.", "source": "Spinal Tap" },
+                    { "quote": "Klaatu Barada Nikto", "source": "The Day the Earth Stood Still" },
+                    { "quote": "Laugh while you can, monkey boy!", "source": "Dr. Emilio Lizardo while under the control of Exiled Lord John Whorfin of Planet 10" },
+                    { "quote": "Sometimes nothing can be a real cool hand.", "source": "Lucas Jackson" },
+                    { "quote": "I've got a bad feeling about this.", "source": "Star Wars (various)" },
                     ];
 
-                    return quips[Math.floor(Math.random()*quips.length)];
+                    var my_quip = quips[Math.floor(Math.random()*quips.length)];
+                    this.title = '- ' + my_quip.source;
+                    return my_quip.quote ; 
              });
         </script>
 
