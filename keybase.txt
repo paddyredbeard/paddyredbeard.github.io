@@ -1,0 +1,63 @@
+==================================================================
+https://keybase.io/pbarabe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://paddythenerd.github.io
+  * I am pbarabe (https://keybase.io/pbarabe) on keybase.
+  * I have a public key with fingerprint 2740 2BD7 08BC 0FEC 6EE9  C88B F5C4 0D24 25D5 7DE0
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01110470f7a9b003dc0facb6438ef4969bc74b8398fb50ae02e643ba2f4fdeefb13e0a",
+            "fingerprint": "27402bd708bc0fec6ee9c88bf5c40d2425d57de0",
+            "host": "keybase.io",
+            "key_id": "f5c40d2425d57de0",
+            "kid": "01110470f7a9b003dc0facb6438ef4969bc74b8398fb50ae02e643ba2f4fdeefb13e0a",
+            "uid": "55c8f5046a5be0bd651c255b76610c00",
+            "username": "pbarabe"
+        },
+        "service": {
+            "hostname": "paddythenerd.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486309335,
+    "expire_in": 157680000,
+    "prev": "8d12be9bc3c48a6ea9c26f79693545f853798762a83a02ee453a29c7fa4e0779",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUr9rFEEY3RiVGAgk1hZhMMTAeczu/NxttfAPsBBFl/nxzd2Q3O65u3fmCLFQ
+ECsJNtaCkD9C7ewsLEQhoGKhhSAYEMEiBmdP01k6zTDfvO997z2+nYXZaG7px4uF
+sytvtj/OvPyioyuPLp3bQrq0E5RtoXWYXrBhoW7ydW9RhnAcx5gK7IRKNcbEGuyU
+0ZwSCY6mPNVGUC1JKp1mWAFOIPxplTjqLIDTMQGsUAc5X/SgGla+aAJtIihOtBVY
+6kAIhgOkRkrtmKHYJjRhlgkLODT2y7rtCOK0qqHry1ALj3wq7x/4/6x7NKVjzEjH
+MOWKacDachabhDEtOI+xwe3cUQ1VoQYQ0EOtKqUBbXdQKI69gTbX1sgRQFk7afpQ
+QGW7Pd/0R/qPsWFVNqUpNwKm3zTDOms5msmwbboFOv9Ll2tf2BBo6BhDVfuyQFkc
+kKbxLX9MJSc4JYR1EGwOfQW5bxFMcInDaefAGKkMSRsnGkIYxFCpOKjUJNyJkA9h
+lDnJiEil4ImSRIWIgDKiktQIpyhgIVLUOrxZlCjjQafqBZm17xWqGVXB/vz9G8ej
+pbno5Ilj7aZF86cWj9bv4bXoUODvD/Y/v/92EQ5ezd69vrqz9vrTwcq9wc/D83u7
+0e3nM9GHweLlX2/hzNpmtvss27/Qfbf6+OuTO3tPl1mHXD2d/wY=
+=WJbU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pbarabe
+
+==================================================================
+
