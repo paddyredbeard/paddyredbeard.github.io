@@ -1,2 +1,2 @@
-paddythenerd.github.io
+paddyredbeard.github.io
 ======================
