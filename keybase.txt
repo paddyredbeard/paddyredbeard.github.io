@@ -4,54 +4,67 @@ https://keybase.io/pbarabe
 
 I hereby claim:
 
-  * I am an admin of https://paddythenerd.github.io
+  * I am an admin of https://paddyredbeard.github.io
   * I am pbarabe (https://keybase.io/pbarabe) on keybase.
   * I have a public key with fingerprint 2740 2BD7 08BC 0FEC 6EE9  C88B F5C4 0D24 25D5 7DE0
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "01110470f7a9b003dc0facb6438ef4969bc74b8398fb50ae02e643ba2f4fdeefb13e0a",
-            "fingerprint": "27402bd708bc0fec6ee9c88bf5c40d2425d57de0",
-            "host": "keybase.io",
-            "key_id": "f5c40d2425d57de0",
-            "kid": "01110470f7a9b003dc0facb6438ef4969bc74b8398fb50ae02e643ba2f4fdeefb13e0a",
-            "uid": "55c8f5046a5be0bd651c255b76610c00",
-            "username": "pbarabe"
-        },
-        "service": {
-            "hostname": "paddythenerd.github.io",
-            "protocol": "https:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "01110470f7a9b003dc0facb6438ef4969bc74b8398fb50ae02e643ba2f4fdeefb13e0a",
+      "fingerprint": "27402bd708bc0fec6ee9c88bf5c40d2425d57de0",
+      "host": "keybase.io",
+      "key_id": "f5c40d2425d57de0",
+      "kid": "01110470f7a9b003dc0facb6438ef4969bc74b8398fb50ae02e643ba2f4fdeefb13e0a",
+      "uid": "55c8f5046a5be0bd651c255b76610c00",
+      "username": "pbarabe"
     },
-    "ctime": 1486309335,
-    "expire_in": 157680000,
-    "prev": "8d12be9bc3c48a6ea9c26f79693545f853798762a83a02ee453a29c7fa4e0779",
-    "seqno": 6,
-    "tag": "signature"
+    "merkle_root": {
+      "ctime": 1526043481,
+      "hash_meta": "b9b376d43cb70f16724fae074ef2101d8fa08556d173f6b26519edd41a7ee95b",
+      "seqno": 2635933
+    },
+    "revoke": {
+      "sig_ids": [
+        "639f1d7bf1fda11a22567ff4aecfec7ea495bebcb3e5437128940879afda91900f"
+      ]
+    },
+    "service": {
+      "hostname": "paddyredbeard.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1526043482,
+  "expire_in": 157680000,
+  "prev": "5543ad6759ff7ce8bd136a6766279f1e099fb58b1b3c757c29b714de72f53945",
+  "seqno": 12,
+  "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG v1
 
-owGtUr9rFEEY3RiVGAgk1hZhMMTAeczu/NxttfAPsBBFl/nxzd2Q3O65u3fmCLFQ
-ECsJNtaCkD9C7ewsLEQhoGKhhSAYEMEiBmdP01k6zTDfvO997z2+nYXZaG7px4uF
-sytvtj/OvPyioyuPLp3bQrq0E5RtoXWYXrBhoW7ydW9RhnAcx5gK7IRKNcbEGuyU
-0ZwSCY6mPNVGUC1JKp1mWAFOIPxplTjqLIDTMQGsUAc5X/SgGla+aAJtIihOtBVY
-6kAIhgOkRkrtmKHYJjRhlgkLODT2y7rtCOK0qqHry1ALj3wq7x/4/6x7NKVjzEjH
-MOWKacDachabhDEtOI+xwe3cUQ1VoQYQ0EOtKqUBbXdQKI69gTbX1sgRQFk7afpQ
-QGW7Pd/0R/qPsWFVNqUpNwKm3zTDOms5msmwbboFOv9Ll2tf2BBo6BhDVfuyQFkc
-kKbxLX9MJSc4JYR1EGwOfQW5bxFMcInDaefAGKkMSRsnGkIYxFCpOKjUJNyJkA9h
-lDnJiEil4ImSRIWIgDKiktQIpyhgIVLUOrxZlCjjQafqBZm17xWqGVXB/vz9G8ej
-pbno5Ilj7aZF86cWj9bv4bXoUODvD/Y/v/92EQ5ezd69vrqz9vrTwcq9wc/D83u7
-0e3nM9GHweLlX2/hzNpmtvss27/Qfbf6+OuTO3tPl1mHXD2d/wY=
-=WJbU
+owGtU01rFUkUffGDiQFRGRARFG38gslofVfX2xgUxQFx485BHnWrbr00SV4/u/tF
+g2QhIggiBLLWXyCCKxUUXLgYceFKBRFGcRWYzcBkO8ztNxMGxKW9Kbr63HNOn1O1
+sn1zZ3LX+svthw6/Xf408XoNOpfWV/F6BmVcyrrXszkcLzgfsW56c0XMuhnjnDNl
+WbLeAWMyBpZ8AKNkjkk54yBYBbl0eQLNPDKB9A28SCpFxARcIvPZdJaKQR+rYVUM
+GqIVVjEB0bIciBCDQXQhzyHpoFgUSuiobURGg7Nl3U6QOfA1Hi9K2qOX3tjeN/Df
+2fdoTKd1yJNmyngNyCAazYPQGqwxnAXW6o5qrAZ+AQk9BF95wGx5OlvAam4ee1VZ
+Nm22oSlaBNfCMCVVzun/fD3bW8DG0yA4kNZEJQOQdW6sUIm8WYVJcMZjnjzLtTaR
+W5kMCLLhMEbFvaUANZCNGq8MyqwrjNROSnJQ4WI5h614XfQptTrr/poZ6RJ/cSNa
+SDxFz7kXQhubkvIYqA+LXhEfQgCJWknLRe4Uy63zBHfcMZayy8utXLVYhDF9W9RG
+AD7GpQojoK/i8X7RzI7g3+aGVdmUoZwn0GzTDOtuG1KzNGynriL0/uPrQTGIdGJo
+YhGruigHFBohv85PTGd4bVhU2CtahLYmZ/S0Org47k1JH43VLiUbMIfIpfGGahOW
+EkDmHPWfAwcZrLZBOLBcRbQiaemU/j9QTlKN7xMnxTjwzaiifqduj7Z0dk129u0+
+uOXozE/vJ5/t+GOw9tudjUu2dVN7wzpT23Zu7Dz/MNF58/Djo032h3f7759ZfcVn
+zq6fu/jnSbvy+94jH+6deLz2pPP3z08O3brZv/DlwoGzw7unfpx4sKf4fPqB+uX8
+sT1/PX968/M/
+=gGmU
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -60,4 +73,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/pbarabe
 
 ==================================================================
-
